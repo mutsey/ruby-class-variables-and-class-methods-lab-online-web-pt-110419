@@ -3,8 +3,8 @@ lucifier = Song.new("lucifier", "Jay-Z", "rap")
 lucifier.name
   # => "lucifier"
  
-ninety_nine_problems.artist
+lucifier.artist
   # => "Jay-Z"
  
-ninety_nine_problems.genre
+lucifier.genre
   # => "rap"
