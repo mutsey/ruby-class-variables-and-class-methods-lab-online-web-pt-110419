@@ -20,7 +20,7 @@ ninety_nine_problems.artist
 ninety_nine_problems.genre
   # => "rap"
   
-  hit_me = Song.new("99 Problems", "Jay-Z", "rap")
+  hit_me = Song.new("hit me baby one more time", "Brittany Spears", "pop")
  
  :hit_me) { Song.new("hit me baby one more time", "Brittany Spears", "pop")
  
