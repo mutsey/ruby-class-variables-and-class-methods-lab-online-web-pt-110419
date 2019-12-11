@@ -25,8 +25,8 @@ ninety_nine_problems.genre
 ninety_nine_problems.name
   # => "99 Problems"
  
-ninety_nine_problems.artist
+hit_me.artist
   # => "Jay-Z"
  
-hit me.genre
-  # => "rap"
+hit_me.genre
+  # => "pop"
